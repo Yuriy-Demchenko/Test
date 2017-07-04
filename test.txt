@@ -1,6 +1,6 @@
 Hello Git!  123 Branch
 It's new line
-Add new line. 0123456789
+Add new line. 0
 More changes.
 And more.
 +1
