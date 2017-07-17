@@ -3,3 +3,4 @@ Hello first change.
 Last.
 Very last.
 New line.
+Another line.
