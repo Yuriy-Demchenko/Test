@@ -2,9 +2,3 @@ Hello Git!  123 Branch
 It's new line
 Add new line. 0
 More changes.
-And more.
-+1
-+2
-+3
-+4
-+5
